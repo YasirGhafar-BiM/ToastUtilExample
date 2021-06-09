@@ -1,0 +1,3 @@
+rootProject.name = "ToastUtilExample"
+include ':app'
+include ':ToasterLib'
